@@ -161,3 +161,4 @@ dist
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Node
 !src/index.html
 !tailwind.config.js
+!src/styles/main.css
